@@ -4,8 +4,8 @@
 class Uxplay < Formula
   desc "AirPlay Unix mirroring server"
   homepage "https://github.com/FDH2/UxPlay"
-  url "https://github.com/FDH2/UxPlay/archive/refs/tags/v1.72.3.tar.gz"
-  sha256 "a2f41c5481c2c3c8f125c38f8142a99d69b21d727be816616b66dd96af9a9c63"
+  url "https://github.com/FDH2/UxPlay/archive/refs/tags/v1.73.3.tar.gz"
+  sha256 "ae19ed11dbbdb5a0474f2e69b6eacf9125eeaf765ccc1e4075124b732d91843b"
   license "GPL-3.0-only"
 
   head "https://github.com/FDH2/UxPlay.git"
